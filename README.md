@@ -8,3 +8,4 @@ References
 
 If you use this code or build upon it, please cite the following works:
 Shamsmohammadi, N., & Spagnuolo, G. (2025, June). Photovoltaic Module Single-Diode-Model Identification by a Physics-Informed Neural Network. In 2025 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE.
+https://ieeexplore.ieee.org/abstract/document/11227416
